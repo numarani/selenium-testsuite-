@@ -1,1 +1,2 @@
 
+This directory contains all the python scripts which interact with the WebDriver to run the automated test.
