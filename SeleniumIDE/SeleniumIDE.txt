@@ -1,1 +1,1 @@
-
+This directory contains all the test case files created using the Selenium IDE along with the appropriate python scripts.
